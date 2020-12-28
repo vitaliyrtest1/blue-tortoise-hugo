@@ -9,7 +9,7 @@ disableKinds:
 params:
   description: lorem-ipsum
   header:
-    title: lorem-ipsum
+    title: lorem-ipsum dolor color
     has_nav: true
     nav_links: []
     type: header
