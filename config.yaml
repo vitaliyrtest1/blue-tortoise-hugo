@@ -13,6 +13,7 @@ params:
     has_nav: true
     nav_links: []
     type: header
+    logo: images/5.png
   footer:
     has_nav: true
     nav_links: []
