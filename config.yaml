@@ -6,3 +6,18 @@ disableKinds:
   - RSS
   - taxonomy
   - taxonomyTerm
+params:
+  description: lorem-ipsum
+  header:
+    title: lorem-ipsum
+    has_nav: true
+    nav_links: []
+    type: header
+  footer:
+    has_nav: true
+    nav_links: []
+    has_social: true
+    social_links: []
+    content: lorem-ipsum
+    links: []
+    type: footer
