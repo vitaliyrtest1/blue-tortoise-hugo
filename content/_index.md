@@ -14,7 +14,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    align: right
+    align: left
     image: images/2.png
     image_position: right
     has_background: true
