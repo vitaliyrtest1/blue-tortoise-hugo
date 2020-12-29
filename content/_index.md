@@ -13,7 +13,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    align: left
+    align: right
     image: images/2.png
     image_position: right
     has_background: true
